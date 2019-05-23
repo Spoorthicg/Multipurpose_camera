@@ -1,0 +1,2 @@
+# Multipurpose_camera
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9cbfdd90d6c8481ebe7fc9ee2461d5ba)](https://app.codacy.com/app/Spoorthicg/Multipurpose_camera?utm_source=github.com&utm_medium=referral&utm_content=Spoorthicg/Multipurpose_camera&utm_campaign=Badge_Grade_Dashboard)
